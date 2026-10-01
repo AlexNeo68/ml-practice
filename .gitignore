@@ -1,6 +1,5 @@
 .gradio
 .venv-hf
 data
-demos
 models
 bench_models.py
